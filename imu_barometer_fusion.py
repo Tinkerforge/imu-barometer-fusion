@@ -85,7 +85,7 @@ class Plot(Qwt.QwtPlot):
     def add_data(self, i, data_x, data_y):
         self.data_x[i].append(data_x)
         self.data_y[i].append(data_y)
-        if len(self.data_x[i]) > 100: # 2 minutes
+        if len(self.data_x[i]) > 100: # 10 seconds
             self.data_x[i] = self.data_x[i][1:]
             self.data_y[i] = self.data_y[i][1:]
 
