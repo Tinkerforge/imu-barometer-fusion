@@ -17,6 +17,6 @@ and integral gain (KP1, KP2 and KI).
 Links
 -----
 
-Youtube video: http://youtu.be/TaqtzG7lyp0
-IMU Brick: http://www.tinkerforge.com/en/doc/Hardware/Bricks/IMU_Brick.html
-Barometer Bricklet: http://www.tinkerforge.com/en/doc/Hardware/Bricklets/Barometer.html
+* Youtube video: http://youtu.be/TaqtzG7lyp0
+* IMU Brick: http://www.tinkerforge.com/en/doc/Hardware/Bricks/IMU_Brick.html
+* Barometer Bricklet: http://www.tinkerforge.com/en/doc/Hardware/Bricklets/Barometer.html
